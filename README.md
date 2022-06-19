@@ -5,4 +5,4 @@ Xyotsu
 </details>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyotsu)](https://github.com/xyotsu/github-readme-stats)
+[![xyotsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyotsu)](https://github.com/xyotsu/github-readme-stats)
