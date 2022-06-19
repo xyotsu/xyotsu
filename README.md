@@ -2,6 +2,7 @@ Xyotsu
 <details>
   <summary>&nbsp; <b>Profile</b></summary>
   &nbsp;
+  <summary>&nbsp;<b>Discord</b> </summary>
 </details>
 
 
