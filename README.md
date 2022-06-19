@@ -8,3 +8,5 @@ Xyotsu
 
 
 [![xyotsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyotsu)](https://github.com/xyotsu/github-readme-stats)
+
+ <img src="https://github.com/xyotsu/github-stats/blob/master/generated/languages.svg">
