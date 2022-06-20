@@ -1,3 +1,9 @@
+<h1 align="center">Hey there, I'm xyotsu 👋</h1>
+<h3 align="center">I learn Js, Software Development and others...</h3>
+
+- I'm currently working on Xyo 🔭
+- I currently learning Js 📝
+
 <details>
   <summary>&nbsp; <b>Stats</b></summary>
   &nbsp; 
