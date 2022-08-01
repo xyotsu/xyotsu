@@ -19,6 +19,6 @@
   </details>
   <details>
     <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
-    <img src="https://lanyard.cnrad.dev/api/:321017931423023105">
+    <img src="https://lanyard.cnrad.dev/api/321017931423023105">
   </details>
 </details>
