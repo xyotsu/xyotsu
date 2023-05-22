@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm xyotsu 👋</h1>
-<h3 align="center">I like learn Js, Software Development and others. By myself.</h3>
+<h3 align="center">I like learning Js, Software Development and others. By myself.</h3>
 
 <img src="https://img.shields.io/github/watchers/xyotsu/xyotsu?style=social">
 
