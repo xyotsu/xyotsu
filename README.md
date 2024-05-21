@@ -17,8 +17,4 @@
     <summary> &nbsp; &nbsp; &nbsp; <b>Top language</b></summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyotsu&layout=compact">
   </details>
-  <details>
-    <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
-    <img src="https://lanyard.cnrad.dev/api/321017931423023105">
-  </details>
 </details>
